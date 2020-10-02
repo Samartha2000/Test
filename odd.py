@@ -5,6 +5,6 @@ def odd(n):
   
 for i in range(10):
   if odd(i):
-    print("ODD")
+    print(str(i)+" is ODD")
   else:
-    print("EVEN")
+    print(str(i)+" is EVEN")
