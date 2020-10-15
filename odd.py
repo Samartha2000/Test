@@ -8,3 +8,5 @@ for i in range(10):
     print(str(i) + " is ODD")
   else:
     print(str(i) + " is EVEN")
+
+# Test
